@@ -22,4 +22,7 @@ Layout 练习素材
 <https://www.dropbox.com/s/6aglxpujnfdqcet/Screen%20Shot%202014-03-12%20at%207.18.14.png>  
 
 练习结果  
-<https://docs.google.com/document/d/1hisygpPvEj1no5Wg4n28Co6wlfB5r0VS-QEIqgH5CWg/edit>
+<https://docs.google.com/document/d/1hisygpPvEj1no5Wg4n28Co6wlfB5r0VS-QEIqgH5CWg/edit>  
+
+浏览器运行原理2 —— 渲染  
+<https://docs.google.com/presentation/d/14zJxw595zxJLyowtowrxrbaYayDpxJX35OjPoFNq-g0/edit>  
