@@ -10,4 +10,7 @@ CUC-Anima
 <https://docs.google.com/presentation/d/1i1g1kshyK_ncuVMk4FYJ7Rtip-D2IdhQ97CqDo7xBRU/edit#slide=id.g1c6a2c08d_085>  
 
 浏览器运行原理 1  
-<https://docs.google.com/presentation/d/1ht6ktPjtFrSwUi7XEW8kAyoZyZIsfU1AJVV0bSWX8-s/edit?usp=sharing>
+<https://docs.google.com/presentation/d/1ht6ktPjtFrSwUi7XEW8kAyoZyZIsfU1AJVV0bSWX8-s/edit?usp=sharing>  
+
+Layout 练习  
+<http://cdpn.io/hkzcI>  
