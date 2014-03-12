@@ -20,3 +20,6 @@ Layout 练习素材
 <https://www.dropbox.com/s/qa0c285jykyjewz/Screen%20Shot%202014-03-12%20at%207.18.05.png>  
 <https://www.dropbox.com/s/s4gnt6bhg4ppy2f/Screen%20Shot%202014-03-12%20at%207.18.12.png>  
 <https://www.dropbox.com/s/6aglxpujnfdqcet/Screen%20Shot%202014-03-12%20at%207.18.14.png>  
+
+练习结果  
+<https://docs.google.com/document/d/1hisygpPvEj1no5Wg4n28Co6wlfB5r0VS-QEIqgH5CWg/edit>
