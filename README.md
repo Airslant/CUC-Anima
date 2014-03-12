@@ -14,3 +14,9 @@ CUC-Anima
 
 Layout 练习  
 <http://cdpn.io/hkzcI>  
+
+Layout 练习素材  
+<https://www.dropbox.com/s/5wxjkf2wbutlx3h/Screen%20Shot%202014-03-12%20at%207.17.58.png>  
+<https://www.dropbox.com/s/qa0c285jykyjewz/Screen%20Shot%202014-03-12%20at%207.18.05.png>  
+<https://www.dropbox.com/s/s4gnt6bhg4ppy2f/Screen%20Shot%202014-03-12%20at%207.18.12.png>  
+<https://www.dropbox.com/s/6aglxpujnfdqcet/Screen%20Shot%202014-03-12%20at%207.18.14.png>  
