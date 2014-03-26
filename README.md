@@ -27,5 +27,5 @@ Layout 练习素材
 浏览器运行原理2 —— 渲染  
 <https://docs.google.com/presentation/d/14zJxw595zxJLyowtowrxrbaYayDpxJX35OjPoFNq-g0/edit>  
 
-Chrome Developer Tools
+Chrome Developer Tools  
 <http://discover-devtools.codeschool.com>
