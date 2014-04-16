@@ -28,4 +28,7 @@ Layout 练习素材
 <https://docs.google.com/presentation/d/14zJxw595zxJLyowtowrxrbaYayDpxJX35OjPoFNq-g0/edit>  
 
 Chrome Developer Tools  
-<http://discover-devtools.codeschool.com>
+<http://discover-devtools.codeschool.com>  
+
+JavaScript 动画练习  
+<http://codepen.io/ivanzhaowy/pen/jKAwq/>
