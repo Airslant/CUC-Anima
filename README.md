@@ -31,4 +31,7 @@ Chrome Developer Tools
 <http://discover-devtools.codeschool.com>  
 
 JavaScript 动画练习  
-<http://codepen.io/ivanzhaowy/pen/jKAwq/>
+<http://codepen.io/ivanzhaowy/pen/jKAwq/>  
+
+CSS 动画练习结果  
+<https://docs.google.com/document/d/1JamAB_MkZRSPfX_xSSZkyQwsW-oH97Vm-iAMsMzjd0g/edit?usp=sharing>
